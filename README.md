@@ -1,4 +1,7 @@
 # Customer Segmentation using RFM Analysis (SQL)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![RFM](https://img.shields.io/badge/RFM-Analysis-green)
+
 
 ## 📌 Project Overview
 This project performs customer segmentation for an e-commerce business using **RFM (Recency, Frequency, Monetary) analysis** in **MySQL**.  
